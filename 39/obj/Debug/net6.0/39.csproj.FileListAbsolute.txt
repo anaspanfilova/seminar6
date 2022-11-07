@@ -1,0 +1,15 @@
+C:\Users\Анастасия\OneDrive\Рабочий стол\Семинар 6\39\bin\Debug\net6.0\39.exe
+C:\Users\Анастасия\OneDrive\Рабочий стол\Семинар 6\39\bin\Debug\net6.0\39.deps.json
+C:\Users\Анастасия\OneDrive\Рабочий стол\Семинар 6\39\bin\Debug\net6.0\39.runtimeconfig.json
+C:\Users\Анастасия\OneDrive\Рабочий стол\Семинар 6\39\bin\Debug\net6.0\39.dll
+C:\Users\Анастасия\OneDrive\Рабочий стол\Семинар 6\39\bin\Debug\net6.0\39.pdb
+C:\Users\Анастасия\OneDrive\Рабочий стол\Семинар 6\39\obj\Debug\net6.0\39.csproj.AssemblyReference.cache
+C:\Users\Анастасия\OneDrive\Рабочий стол\Семинар 6\39\obj\Debug\net6.0\39.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\OneDrive\Рабочий стол\Семинар 6\39\obj\Debug\net6.0\39.AssemblyInfoInputs.cache
+C:\Users\Анастасия\OneDrive\Рабочий стол\Семинар 6\39\obj\Debug\net6.0\39.AssemblyInfo.cs
+C:\Users\Анастасия\OneDrive\Рабочий стол\Семинар 6\39\obj\Debug\net6.0\39.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\OneDrive\Рабочий стол\Семинар 6\39\obj\Debug\net6.0\39.dll
+C:\Users\Анастасия\OneDrive\Рабочий стол\Семинар 6\39\obj\Debug\net6.0\refint\39.dll
+C:\Users\Анастасия\OneDrive\Рабочий стол\Семинар 6\39\obj\Debug\net6.0\39.pdb
+C:\Users\Анастасия\OneDrive\Рабочий стол\Семинар 6\39\obj\Debug\net6.0\39.genruntimeconfig.cache
+C:\Users\Анастасия\OneDrive\Рабочий стол\Семинар 6\39\obj\Debug\net6.0\ref\39.dll
